@@ -1,2 +1,13 @@
 git config --global user.name jhillblabs
 git config --global user.email jhilzinhavendito@gamil.com
+
+1. Baixar as dependências do projeto executanto o comando:
+   npm i
+
+2. Instalando o metro:
+   npx expo install react-native-web react-dom @expo/metro-runtime
+
+3. Abrir o emulador no Android Studio;
+
+4. Executar o projeto executando o comando:
+   npx expo start
